@@ -12,8 +12,9 @@
         <div class="navbar-header pull-left">
             <a class="navbar-brand">
                 <small>
+r
                     <i class="icon-leaf"></i>
-                    家常菜
+                   我的家常菜
                 </small>
             </a><!-- /.brand -->
         </div><!-- /.navbar-header -->
